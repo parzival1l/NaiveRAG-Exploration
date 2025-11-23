@@ -5,9 +5,9 @@ A hands-on exploration of Retrieval-Augmented Generation (RAG) pipelines, built 
 ## 🛠️ Technology Stack
 
 - **Vector Database**: Qdrant (in-memory)
+Starter models will definitely change.
 - **Embedding Model**: nateraw/bge-large-en-v1.5 (via Replicate)
-- **LLM**: meta/llama-2-70b-chat (via Replicate)
-- **Framework**: LangChain
+- **LLM**: openai/gpt-5-nano (via Replicate) 
 - **Dataset**: atitaarora/qdrant_doc
 - **Evaluation**: RAGAS
 
