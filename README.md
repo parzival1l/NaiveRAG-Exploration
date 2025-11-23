@@ -1,6 +1,6 @@
 # NaiveRAG Exploration
 
-A hands-on exploration of Retrieval-Augmented Generation (RAG) pipelines, built from scratch for learning and experimentation.
+A hands-on exploration of Retrieval-Augmented Generation (RAG) pipelines, built from scratch for learning and experimentation. More info at the start of each notebooks.
 
 ## 🛠️ Technology Stack
 
@@ -17,7 +17,7 @@ A hands-on exploration of Retrieval-Augmented Generation (RAG) pipelines, built 
 ```bash
 pip install -r requirements.txt
 ```
-
+Or you can see the notebook first cell.
 2. Set your Replicate API token:
 ```python
 os.environ["REPLICATE_API_TOKEN"] = "your_token_here"
@@ -25,7 +25,7 @@ os.environ["REPLICATE_API_TOKEN"] = "your_token_here"
 
 3. Run the notebook:
 ```bash
-jupyter notebook rag_pipeline.ipynb
+jupyter notebook Naive_RAG.ipynb
 ```
 
 ## 📖 What's Inside

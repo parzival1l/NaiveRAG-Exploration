@@ -27,4 +27,5 @@ build/
 
 
 #
-notebooks_config.json
+notebook_config.json
+notebooks_from_workshop/*
